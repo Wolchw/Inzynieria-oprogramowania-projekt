@@ -1,22 +1,24 @@
 - obsluga strzalek
 - grawitacja
 - skok
-- hitboxy
 - przytrzymany skok
-- mechanika smierci
+- hitboxy
 - kucniecie
 - odbijanie od scian
-- zaprojektowanie poziomow
-- menu glowne
-- interfejs
-- tablica wynikow
 - "zawijanie" ekranu
-- sklepik
-- pieniazki
-- ruchomi przeciwnicy
+- zrobienie poziomu testowego
+- mechanika smierci
 - pulapki
+- interfejs
+- menu glowne
+- ruchomi przeciwnicy
+- timer
+- tablica wynikow
+- pieniazki
+- sklepik
+- zaprojektowanie poziomow
+- zapis gry
 - rozne tryby gry
 - zaprojektowanie grafik
-- multiplayer
 - dzwiek
-- zapis gry
+- multiplayer
